@@ -1,3 +1,3 @@
 # Alumni-Portal
 
-## Built using web development
+## Web development 
